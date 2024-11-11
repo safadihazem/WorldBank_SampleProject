@@ -2,7 +2,7 @@
 Data Pipeline
 
 ### Description
-This project processes data by connecting to a SQL Server database, loading required data, and applying transformations.
+This is a sample project for data processing by: connecting to a SQL Server database, loading required data, and applying transformations.
 
 ### Install dependencies
 Run the following command to install the required packages:
