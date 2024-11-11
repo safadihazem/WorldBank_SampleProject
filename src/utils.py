@@ -1,4 +1,3 @@
-from data_loader import load_dict_from_sql
 import pandas as pd
 
 def create_dictionary(dataframe):
