@@ -1,0 +1,4 @@
+pandas
+openpyxl  # for reading Excel files
+pytest  # testing framework
+pyodbc # database connection
